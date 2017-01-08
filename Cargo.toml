@@ -1,0 +1,7 @@
+[package]
+name = "git-xlsx-textconv"
+version = "0.1.0"
+authors = ["paq <89paku@gmail.com>"]
+
+[dependencies]
+calamine = "0.3.0"
